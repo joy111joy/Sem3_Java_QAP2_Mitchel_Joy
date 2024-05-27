@@ -11,6 +11,12 @@ public class Money {
         this.cents = cents;
     }
 
+    //Copy Constructor
+    public Money(Money other) {
+        this.dollars = other.dollars;
+        this.cents = other.cents;
+    }
+    
     //Getters and Setters
     public long getDollars() {
         return dollars;
