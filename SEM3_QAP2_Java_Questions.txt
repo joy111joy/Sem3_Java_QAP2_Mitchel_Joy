@@ -1,0 +1,24 @@
+1. How many hours did it take to complete this assignment?
+
+	This assignment took me roughly 4 hours to complete.
+
+2. What online resources did I use?
+
+	Here is a list of some of the resources I used:
+
+	- W3School:
+		I used this website to help with some of the SYNTAX.
+
+	- YouTube:
+		I used some of the lectures that were posted in class to help with the SYNTAX of this language.
+
+	-Dr. Malik's Lectures: I had to rewatch some of the lectures to figure out some of my issues
+
+3. Did I need to ask any of my friends to help solve my problems?
+	No, I did not ask for any help from friends.
+
+4. Did I need to ask my instructor for any help?
+	No, I did not ask for any help from my instructor.
+
+5. Rate the difficulty of this assignment:
+	I would rate this assignment a 7/10 for difficulty. The first two problems were not very hard at all. The third problem caused me many issues that required lots of work to figure out. I think most of my issues was not know how each method interacted with eachother. Though once I figured the problem out I didnt have any more issues.
